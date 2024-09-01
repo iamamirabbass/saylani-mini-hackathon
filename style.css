@@ -1,3 +1,8 @@
+
+@font-face {
+    font-family: 'space-greek';
+    src: url(assets/Space_Grotesk/static/SpaceGrotesk-Bold.ttf);
+}
 .nav-btn{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -97,4 +102,16 @@
 
 .accordion-2{
     background-color: #F3F3F3;
+}
+
+
+.accordion-01{
+    font-family: 'space-greek';
+    font-size: 60px;
+}
+
+.accordion-02{
+    font-family: 'space-greek';
+    font-size: 30px;
+
 }
