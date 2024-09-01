@@ -1,0 +1,91 @@
+.nav-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+
+}
+
+.navbar-cutomization{
+    background-color: white;
+}
+
+.hero-image{
+    width: 600.46px;
+    height: 515px;
+}
+
+.hero-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.zoom img{
+    height: 48px;
+    width: 110.57px;
+}
+
+
+
+.Services{
+    width: 178px;
+    height: 51px;
+    border-radius: 7px;
+    border: none;
+    background-color: #B9FF66;
+    padding-left: 20px;
+}
+
+.box1{
+    width: 600px;
+    height: 310px;
+    background-color: #F3F3F3;
+    border-radius: 45px;
+    box-shadow: 0px 5px 0px 0px #191A23;
+
+}
+
+.learn-more{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.tokyo{
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+.search-engine{
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: #B9FF66;
+
+}
+
+.Optimization{
+    margin-left: 20px;
+    background-color: #B9FF66;
+}
+
+.box2{
+    background-color: #B9FF66;
+    width: 600px;
+    height: 310px;
+  
+    border-radius: 45px;
+    box-shadow: 0px 5px 0px 0px #191A23;
+}
+
+
+.WorkingProcess{
+
+    
+    border-radius: 7px;
+    border: none;
+    background-color: #B9FF66;
+    justify-content: center;
+    align-items: center;
+} 
